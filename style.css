@@ -1,0 +1,1072 @@
+#fan{
+    color: coral;
+    position: relative;
+    top: 33px;
+    right: 35px;
+}
+body{
+  background-color:#C8C4B8;
+  overflow-x: hidden;
+  overflow-y: scroll;
+
+}
+#home{
+    color: lightsalmon;
+}
+.nav{
+    margin-left: 30px;
+    background-image: url(bg_720-removebg-preview\ \(1\).png);
+    border: 100%;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+
+
+}
+
+#fix{
+  color: coral;
+  font-size: 60px;
+  font-weight: bold;
+}
+.empty{
+  margin: 10%;
+  background-color: white;
+}
+
+#ultimate{
+  font-weight: bolder;
+  font-size: 60px;
+  
+
+}
+#fix{
+  font-weight: bold;
+  font-size: 40px;
+}
+#quick{
+  font-weight: bolder;
+  font-size: 40px;
+}
+#icon{
+  color: red;
+  margin-left: 10px;
+  position: relative;
+  bottom: 600px;
+  left: 50px;
+
+  
+}
+#button{
+  background:#F22E52;
+  position: relative;
+  bottom: 600px;
+  left: 45px;
+  width: 150px;
+  height: 30px;
+}
+#heading{
+  text-align: center;
+  position: relative;
+  bottom: 400px;
+}
+#image{
+  width: 150px;
+  transform: rotate(-45deg);
+  
+
+
+  
+
+}
+.images3{
+  background-image: linear-gradient(#977979,#ff004c);
+  padding: 2em;
+}
+.design{
+  background-color: white;
+  border-radius: 10px;
+  position: relative;
+  
+}
+#ui{
+  position: relative;
+  
+
+}
+#kashan{
+  position: relative;
+  
+
+}
+.image1{
+  background-image: linear-gradient(#00eeff,purple) ;
+  padding: 2em;
+}
+.images{
+  background-image: linear-gradient(#00eeff,#ff004c);
+  padding: 2em;
+}
+.container1{
+  
+  display: flex;
+   margin-right: 10px;
+}
+#testimony{
+  color: #F24B59;
+}
+#bag{
+  position: relative;
+  bottom: 40px;
+  left: 80%;
+
+}
+#bag1{
+  position: relative;
+  bottom: 40px;
+  left: 80%;
+}
+#bag2{
+  position: relative;
+  bottom: 40px;
+  left: 80%;
+}
+#bag3{
+  position: relative;
+  bottom: 40px;
+  left: 80%;
+}
+#special{
+  color: #F22E52;
+  font-size: 20px;
+  
+}
+#special2{
+  color: #F22E52;
+  font-size: 20px;
+}
+#email{
+  position: relative;
+  top: 105px;
+  right:150px;
+}
+#enter{
+  width: 250px;
+}
+#bag4{
+  position: relative;
+  bottom: 3px;
+  left: 80%;
+}
+#bag5{
+  position: relative;
+  bottom: 3px;
+  left: 80%;
+}
+#bag6{
+  position: relative;
+  bottom: 3px;
+  left: 80%;
+}
+#bag6{
+  position: relative;
+  bottom: 3px;
+  left: 80%;
+}
+#bag7{
+  position: relative;
+  bottom: 3px;
+  left: 80%;
+}
+#bag8{
+  position: relative;
+  bottom: 40px;
+  left: 80%;
+}
+
+
+  
+  
+  
+
+
+.images{
+  
+  width: 125px;
+  height: 105px;
+  
+}
+#imade{
+  width: 150px;
+  transform: rotate(685deg);
+}
+.container2{
+  display: flex;
+  /* background-color: rgb(100, 100, 208); */
+  margin-right: 10px;
+
+}
+#imade2{
+  width: 150px;
+  transform: rotate(685deg);
+ 
+  
+}
+.container3{
+  display: flex;
+  background-color: rgb(106, 106, 192);
+ 
+}
+.all{
+  /* display: grid;
+  grid-template-columns: repeat(3,1fr); */
+  display: flex;
+   margin-left: 10%;
+   position: relative;
+   bottom: 400px;
+}
+@media only screen and (min-width:700px) {
+  .all{
+    grid-template-columns: repeat(1,1fr)
+   /* font-size: 1rem; */
+   
+ }
+ }
+
+
+.words1{
+  background-color: white;
+  width: 120px;
+  
+}
+.words2{
+  background-color: white;
+  width: 120px;
+}
+.words3{
+  background-color: white;
+  width: 120px;
+}
+#feature{
+text-align: center;
+position: relative;
+bottom: 200px;
+}
+.people{
+  display: flex;
+  position: relative;
+  left: 75px;
+  bottom: 200px;
+}
+#kids{
+  font-weight: bold;
+  margin-left: 30px;
+}
+#women{
+  font-weight: bold;
+  margin-left: 15px;
+}
+#men{
+  font-weight: bold;
+  margin-right: 15px;
+  color: coral;
+}
+#imade5{
+  width: 150px;
+  transform: rotate(-45deg);
+
+
+
+}
+.container5{
+  background-color: white;
+  width: 2000px;
+  height: 250px;
+  
+  position: relative;
+  left: 85px;
+ 
+  
+}
+.words5{
+
+}
+#imade6{
+  width: 150px;
+  transform: rotate(-45deg);
+  position: relative;
+  top: 35px;
+
+}
+.words6{
+  position: relative;
+  top: 65px;
+
+}
+.container6{
+  width: 2000px;
+  height: 250px;
+  background-color: white;
+  
+  
+  margin-left: 10%;
+}
+#imade7{
+  width: 150px;
+  transform: rotate(-45deg);
+  position: relative;
+  top: 30px;
+}
+.words7{
+  position: relative;
+  top: 70px;
+}
+.container7{
+  width: 2000px;
+  height: 250px;
+  
+  background-color: white;
+  margin-top: 10%;
+  margin-left: 10%;
+  position: relative;
+  bottom:123px;
+  right: 85px;
+  
+}
+#imade8{
+  width: 150px;
+  transform: rotate(-45deg);
+}
+.words8{
+  position: relative;
+  top: 40px;
+}
+.container8{
+  width: 2000px;
+  height: 250px;
+   
+  background-color: white;
+  margin-top: 10%;
+  margin-left: 10%;
+  position: relative;
+  bottom: 130px;
+  right: 170px;
+
+  
+
+  
+
+}
+.main-container{
+  display: flex;
+  position: relative;
+  bottom: 200px;
+}
+#imade9{
+  width: 150px;
+  transform: rotate(-45deg);
+  position: relative;
+  top: 25px;
+ 
+  
+}
+.container9{
+  background-color: white;
+  width: 200px;
+  position: relative;
+  left: 3px;
+  
+  
+  
+
+}
+#imade10{
+  width: 150px;
+  transform: rotate(-40deg);
+  position: relative;
+  top: 25px;
+  
+
+}
+.container10{
+  background-color: white;
+  width: 200px;
+  position: relative;
+  left: 50px;
+  
+  
+}
+#words10{
+  position: relative;
+  top: 25px;
+}
+#imade11{
+  width: 150px;
+  transform: rotate(-35deg);
+
+}
+.container11{
+  background-color: white;
+  width: 200px;
+  position: relative;
+  left: 150px;
+}
+#imade12{
+  width: 150px;
+  transform: rotate(-45deg);
+  position: relative;
+  top: 25px;
+}
+.container12{
+  background-color: white;
+  width: 200px;
+  position: relative;
+  left: 240px;
+  
+
+}
+#words12{
+  position: relative;
+  top: 40px;
+}
+#heart{
+  position: relative;
+  bottom: 270px;
+  left: 3px;
+}
+#heart1{
+  position: relative;
+  bottom: 260px;
+  left: 3px;
+
+}
+#heart2{
+  position: relative;
+  bottom: 260px;
+  left: 3px;
+
+}
+#heart3{
+  position: relative;
+  bottom: 260px;
+  left: 3px;
+
+}
+#heart4{
+  position: relative;
+  bottom: 190px;
+  left: 3px;
+}
+#heart5{
+  position: relative;
+  bottom: 190px;
+  left: 3px;
+
+}
+#heart6{
+  position: relative;
+  bottom: 190px;
+  left: 3px;
+
+}
+#heart7{
+  position: relative;
+  bottom: 190px;
+  left: 3px;
+
+
+}
+.main2{
+display: flex;
+position: relative;
+left: 80px;
+bottom: 180px;
+  
+  
+}
+#buttonl{
+  position: relative;
+  bottom: 130px;
+  left: 39%;
+  color: #F22E52;
+  border: 1px solid crimson;
+  
+}
+#arrival{
+  text-align: center;
+  font-size: 30px;
+}
+#shoe{
+  width: 150px;
+}
+#images{
+  width:250px;
+  position: relative;
+
+}
+.container13{
+  display: flex;
+  position: relative;
+  left: 80px;
+}
+.wordss{
+  position: relative;
+  left: 15px;
+}
+#imagess{
+  width: 250px;
+}
+.container14{
+  display: flex;
+  position: relative;
+  left: 200px;
+}
+.shoes2{
+  display: flex;
+}
+.content{
+  display: flex;
+  position: relative;
+  left: 70px;
+}
+.paragraph{
+  position: relative;
+  left: 50px;
+  font-size:10px;
+  background-color: white;
+  height: 150px;
+   border-radius:5px ;
+   
+   
+   
+  
+}
+.subscribe{
+  position: relative;
+  left: 70px;
+  background-color:#F2ACBF;
+  width: 1100px;
+  height: 250px;
+  border-radius: 10px;
+  text-align: center;
+  margin-bottom: 30px;
+  
+  
+
+  
+}
+#download{
+  width: 100px;
+  position: relative;
+  bottom: 36px;
+  left: 10%;
+}
+#google{
+  width: 100px;
+}
+.content-all{
+  display: flex;
+  position: relative;
+  left: 65px;
+  background-color: #F24B59;
+  width: 1100px;
+  border-radius: 10px;
+
+}
+#buy1{
+  background-color:#FF505A
+
+}
+#buy{
+  background-color: #FF505A
+
+}
+#crat{
+  border: 1px solid crimson;
+  color: crimson;
+
+}
+#crat1{
+  border: 1px solid crimson;
+  color: crimso
+
+}
+.one{
+  position: relative;
+  left: 70px;
+  margin-right: 20px;
+}
+.two{
+  position: relative;
+  left: 70px;
+  margin-right: 20px;
+
+}
+.three{
+  position: relative;
+  left: 70px;
+  margin-right: 20px;
+}
+.four{
+  position: relative;
+  left: 70px;
+  margin-right: 20px;
+}
+.five{
+  position: relative;
+  left: 70px;
+  margin-right: 20px;
+
+
+}
+
+.lorem{
+  position: relative;
+  left: 45px;
+  bottom: 650px;
+  font-size: 15px;
+  
+}
+#logo{
+  position: absolute;
+  left: 55%;
+  size: 400px;
+  
+}
+.hangshoe{
+  position: relative;
+  left: 40%;
+  bottom: 350px;
+}
+#bag4s{
+  position: relative;
+  top: 4px;
+  left: 110px;
+
+}
+#heart4s{
+  position: relative;
+  bottom: 210px;
+
+
+}
+#bag5s{
+  position: relative;
+  top: 40px;
+  left: 110px;
+
+
+}
+#heart5s{
+  position: relative;
+  bottom: 165px;
+
+}
+#heart6s{
+  position: relative;
+  bottom: 165px;
+
+
+}
+#bag6s{
+  position: relative;
+  top: 45px;
+  left: 110px;
+
+} 
+.login{
+  display: flex;
+  position: relative;
+  bottom: 550px;
+  left: 900px;
+}
+#login1{
+  margin-right: 15px;
+}
+#sign{
+  margin-right: 15px;}
+#lens{
+  position: relative;
+  top: 18px;
+}
+
+
+
+.loginT{
+  position: relative;
+  left: 900px;
+  bottom: 70px;
+}
+#lenst{
+  position: relative;
+  right: 160px;
+}
+#logint{
+  position: relative;
+  top: 34px;
+  right: 45px;
+}
+#en{
+  position: relative;
+  left: 90px;
+  bottom: 40px
+
+ 
+  }
+  #shoess1{
+    width: 150px;
+  }
+  #shoess2{
+    width: 150px;
+
+  }
+  #shoess3{
+    width: 150px;
+
+  }
+  #image91{
+    width: 100px;
+    transform: rotate(-45deg);
+  }
+  #image101{
+    width: 100px;
+    transform: rotate(-45deg);
+    position: relative;
+    top: 25px;
+  }
+  #image111{
+    width: 100px;
+    transform: rotate(-45deg);
+    top: 25px;
+  }
+  #image112{
+    width: 100px;
+    transform: rotate(-45deg);
+  }
+  .container91{
+    margin-right: 100px;
+    background-color: white;
+    width: 150px;
+    
+  }
+  .container101{
+    margin-right: 100px;
+    background-color: white;
+    width: 150px;
+  }
+  .container111{
+    margin-right: 100px;
+    background-color: white;
+    width: 150px;
+
+  }
+  .container112{
+    margin-right: 100px;
+    background-color: white;
+    width: 150px;
+    
+  }
+  .container110{
+    margin-right: 100px;
+    background-color: white;
+    width: 150px;
+  }
+
+  
+  .main{
+    display: flex;
+    position: relative;
+    left: 15%;
+    bottom:  400px;
+  }
+  .content-alls{
+    display: flex;
+    position: relative;
+    left: 13%;
+    bottom: 190px;
+    background-color:#F22E52;
+    width: 900px;
+    border-radius: 20px;
+  }
+  .alls{
+    position: relative;
+    left: 50%;
+    bottom: 600px;
+  }
+  #headings1{
+    text-align: center;
+    position: relative;
+
+    bottom: 500px;
+  }
+  #ones{
+
+  }
+  #twoz{
+
+  }
+  #threez{
+
+  }
+  .shoess{
+    position: relative;
+    bottom: 600px;
+  }
+  /* @media only screen and (min-width:800px) {
+    lorem{
+      font-size: 1rem;
+      font-weight: 20px;
+      margin-bottom: 2em;
+      color: #C8C4B8;
+    }
+    
+
+
+  }
+  @media only screen and (min-width:600px) {
+    lorem{
+      font-size: 1rem;
+      font-weight: 20px;
+      margin-bottom: 2em;
+      color: #C8C4B8;
+    }
+    
+
+
+  }
+  @media only screen and (min-width:800px) {
+    lorem{
+      font-size: 1rem;
+      font-weight: 20px;
+      margin-bottom: 2em;
+      color: #C8C4B8;
+    }
+    
+
+
+  /* }@media only screen and (min-width:800px) {
+    body{
+      font-size: 1rem;
+      font-weight: 20px;
+      margin-bottom: 2em; */
+
+    /* }
+    }
+ 
+    @media only screen and (min-width:800px) {
+      nav{
+        font-size: 1rem;
+        font-weight: 20px;
+        margin-bottom: 2em;
+        color: #C8C4B8;
+      }
+      }
+      @media only screen and (min-width:800px) {
+        .hangshoe{
+          font-size: 1rem;
+          font-weight: 20px;
+          margin-bottom: 2em; */
+          /* color: #C8C4B8;
+        }
+        }
+        @media only screen and (min-width:800px) {
+          .circle{
+            font-size: 1rem;
+            font-weight: 20px;
+            margin-bottom: 2em;
+            color: #C8C4B8;
+          }
+          }
+        
+        @media only screen and (min-width:800px) {
+          .heading{
+            font-size: 1rem;
+            font-weight: 20px;
+            margin-bottom: 2em;
+            color: #C8C4B8;
+          }
+          }
+
+        @media only screen and (min-width:800px) {
+          .all{
+            font-size: 1rem;
+            font-weight: 20px;
+            /* margin-bottom: 2em;
+            color: #C8C4B8;
+          }
+          }
+          @media only screen and (min-width:800px) {
+            .feature{
+              font-size: 1rem;
+              font-weight: 20px;
+              margin-bottom: 2em;
+              color: #C8C4B8;
+            }
+            }
+            @media only screen and (min-width:800px) {
+              .people{
+                font-size: 1rem;
+                font-weight: 20px;
+                margin-bottom: 2em;
+                color: #C8C4B8;
+              /* } */
+              /* }
+              @media only screen and (min-width:800px) {
+                .main2{
+                  font-size: 1rem;
+                  font-weight: 20px;
+                  margin-bottom: 2em;
+                  color: #C8C4B8;
+                }
+                }
+              
+              @media only screen and (min-width:800px) {
+                 main-container{ */
+                  /* font-size: 1rem;
+                  font-weight: 20px;
+                  margin-bottom: 2em;
+                  color: #C8C4B8;
+                } */
+/*                  
+              @media only screen and (min-width:800px) {
+               . main-container{
+                 font-size: 1rem;
+              
+               }
+               }
+                
+              @media only screen and (min-width:800px) {
+                body{
+                 font-size: 1rem;
+                 
+               }
+               }
+                
+              @media only screen and (min-width:800px) {
+              .nav{
+                 font-size: 1rem;
+                
+               }
+               }
+                
+              @media only screen and (min-width:800px) {
+                .login{
+                 font-size: 1rem
+               }
+               }
+                
+              @media only screen and (min-width:800px) {
+                .hamgshoe{
+                 font-size: 1rem;
+                 
+               }
+               }
+                
+              @media only screen and (min-width:800px) {
+                lorem{
+                 font-size: 1rem;
+                 
+               }
+               }
+                
+              @media only screen and (min-width:800px) {
+                .circle{
+                 font-size: 1rem;
+                 
+               }
+               }
+                
+              @media only screen and (min-width:800px) {
+                .all{
+                  grid-template-columns: repeat(1,1fr)
+                 /* font-size: 1rem; */
+                 
+               /* }
+               }
+                
+              @media only screen and (min-width:800px) {
+                .people{
+                 font-size: 1rem;
+                 
+               }
+               }
+                
+              @media only screen and (min-width:800px) {
+                .subscribe{
+                 font-size: 1rem;
+                 
+               }
+               }
+                
+              @media only screen and (min-width:800px) {
+                main-container{
+                 font-size: 1rem;
+                 font-weight: 20px;
+                 margin-bottom: 2em;
+                 color: #C8C4B8;
+               }
+               } 
+               @media only screen and (min-width:800px) {
+                  .shoes2{
+                   font-size: 1rem;
+                   
+                 } */
+                 /* }
+                
+              @media only screen and (min-width:800px) {
+                .content-all{
+                 font-size: 1rem;
+                
+               }
+               }
+                
+              @media only screen and (min-width:800px) {
+                .login{
+                 font-size: 1rem;
+    
+               }
+               }
+                
+              @media only screen and (min-width:800px) {
+                .content-alls{
+                
+               }
+               }
+                
+              @media only screen and (min-width:800px) {
+                .alls{
+                 font-size: 1rem;
+               }
+               }
+                
+              @media only screen and (min-width:800px) {
+                .shoess{
+                 
+               }
+               } */
+/*                 
+              @media only screen and (min-width:800px) {
+                .main{
+               }
+               }
+                
+
+        
+
+    
+     */
+
+ 
+
+
+
+
+    
+
+  
+
+  
+
+
+
